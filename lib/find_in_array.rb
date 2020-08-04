@@ -23,5 +23,5 @@ end
 
 def find_element_index(array, value_to_find)
   array.index{|element| element==value_to_find}
-  return element 
+   
 end 
